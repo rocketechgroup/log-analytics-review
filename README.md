@@ -22,3 +22,7 @@ gcloud functions deploy log_test \
     --security-level secure-always \
     --run-service-account ${SA_NAME_FUNC}
 ```
+
+## SQL query samples
+There are two SQL query samples shows how to make use of the powerful JSON data type.
+See [SQL Samples](sql_samples)
