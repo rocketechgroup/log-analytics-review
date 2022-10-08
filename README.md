@@ -26,3 +26,7 @@ gcloud functions deploy log_test \
 ## SQL query samples
 There are two SQL query samples shows how to make use of the powerful JSON data type.
 See [SQL Samples](sql_samples)
+
+## Additional reading
+- [Log Analytics GCP blog](https://cloud.google.com/blog/products/data-analytics/moving-to-log-analytics-for-bigquery-export-users)
+- [BigQuery Search Index](https://cloud.google.com/blog/products/data-analytics/pinpoint-unique-elements-with-bigquery-search-features)
